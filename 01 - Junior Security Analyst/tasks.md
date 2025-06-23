@@ -41,7 +41,8 @@ I escalated the incident to **Will Griffin**, the designated security analyst, p
 ### Step 2: Firewall Blocking
 Following the escalation, I created a firewall rule to block the IP address `221.181.185.159`, preventing further malicious activity.
 
-> ![Firewall Rule](screenshots/firewall-block.png)
+> ![Firewall Rule](screenshots/<img width="1440" alt="Screenshot 2025-06-23 at 4 14 32 AM" src="https://github.com/user-attachments/assets/45c6ea73-ecb9-4617-959e-00a7e3035031" />
+)
 
 ---
 
