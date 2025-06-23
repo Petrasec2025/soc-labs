@@ -23,10 +23,9 @@
 ## 🎯 Final Flag
 
 > ✅ **Flag:** `THM{UKC_SCENARIO}`
-> <img width="1440" alt="Screenshot 2025-06-22 at 10 19 45 PM" src="https://github.com/user-attachments/assets/d76e455d-de6a-4f99-b50f-815d1a5d81fb" />
-
 
 The flag was revealed after successfully matching each scenario to the correct Unified Kill Chain phase using the static site provided in the lab.
+<img width="1440" alt="Screenshot 2025-06-22 at 10 19 45 PM" src="https://github.com/user-attachments/assets/35fb65b2-ffb1-4563-9931-5f3db46f2408" />
 
 ---
 
