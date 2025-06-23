@@ -1,4 +1,5 @@
 # Cyber Kill Chain: 7 Phases (My Notes)
+<img width="1146" alt="Screenshot 2025-06-22 at 4 54 41 AM" src="https://github.com/user-attachments/assets/f94c1c48-d4f3-4c8d-9e3c-4de8e8c2602d" />
 
 1. **Reconnaissance**  
    I gathered information on potential targets using OSINT tools like LinkedIn, Hunter.io, and theHarvester. The goal in this phase is to identify weak points through email addresses, exposed infrastructure, or employee data.
