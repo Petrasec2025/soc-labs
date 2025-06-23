@@ -20,6 +20,8 @@ Understanding this is essential for me as a Threat Hunter, Incident Responder, o
 
 ---
 
+<img width="902" alt="Screenshot 2025-06-22 at 12 59 00 AM" src="https://github.com/user-attachments/assets/47ec1c29-b6de-4302-aaf0-3d45b071e1b1" />
+
 ## 3. My Practical Notes on Key Levels
 
 ### Hash Values
