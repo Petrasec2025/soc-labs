@@ -92,6 +92,8 @@ The browser identified from the User-Agent string was:
 **Exercise 2:**  
 I counted the POST requests in the PCAP screenshot and found:  
 ✅ `6`
+<img width="1168" alt="Screenshot 2025-06-23 at 5 53 08 AM" src="https://github.com/user-attachments/assets/72037ca5-15e5-4581-8890-4bd030ec4a7c" />
+
 
 ![PCAP Screenshot](https://github.com/user-attachments/assets/335b3b63-6a22-44e7-b53e-4a7ac58c9a6e)
 
