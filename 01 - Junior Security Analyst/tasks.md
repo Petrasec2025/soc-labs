@@ -28,8 +28,8 @@ After reviewing all suspicious addresses, I confirmed that the following IP was 
 - **Domain Name**: `chinamobileleted.thm`
 - **Location**: Zhenjiang, Jiangsu, China
 
-> ![Malicious IP Scan Result](screenshots/![Uploading Screenshot 2025-06-23 at 4.11.45 AM.png…]()
-)
+<img width="1440" alt="Screenshot 2025-06-23 at 4 11 45 AM" src="https://github.com/user-attachments/assets/a8fd2064-e539-435e-bd13-0c67d1554962" />
+
 
 ---
 
@@ -41,8 +41,8 @@ I escalated the incident to **Will Griffin**, the designated security analyst, p
 ### Step 2: Firewall Blocking
 Following the escalation, I created a firewall rule to block the IP address `221.181.185.159`, preventing further malicious activity.
 
-> ![Firewall Rule](screenshots/<img width="1440" alt="Screenshot 2025-06-23 at 4 14 32 AM" src="https://github.com/user-attachments/assets/45c6ea73-ecb9-4617-959e-00a7e3035031" />
-)
+<img width="725" alt="Screenshot 2025-06-23 at 4 14 05 AM" src="https://github.com/user-attachments/assets/c5c0521d-1364-4774-bca9-a8c5dcdbd7c5" />
+
 
 ---
 
@@ -50,4 +50,5 @@ Following the escalation, I created a firewall rule to block the IP address `221
 
 ### 💬 Message from the Attacker
 After blocking the IP, I received the following message left by the malicious actor:
+<img width="1440" alt="Screenshot 2025-06-23 at 4 14 32 AM" src="https://github.com/user-attachments/assets/350ac1ad-9d6b-4e46-ab54-bb993f58e452" />
 
