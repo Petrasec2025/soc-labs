@@ -28,7 +28,8 @@ After reviewing all suspicious addresses, I confirmed that the following IP was 
 - **Domain Name**: `chinamobileleted.thm`
 - **Location**: Zhenjiang, Jiangsu, China
 
-> ![Malicious IP Scan Result](screenshots/malicious-ip-scan.png)
+> ![Malicious IP Scan Result](screenshots/![Uploading Screenshot 2025-06-23 at 4.11.45 AM.png…]()
+)
 
 ---
 
