@@ -1,6 +1,6 @@
 # 📘 My Notes: Unified Kill Chain
 
-This is my structured summary and reflection on the **Unified Kill Chain (UKC)** — a modern framework that breaks down how attackers operate across 18 distinct phases. Studying UKC gave me a clearer picture of how real-world cyberattacks unfold and where defenders like me can step in to break the chain.
+This is my structured summary and reflection on the **Unified Kill Chain (UKC)** a modern framework that breaks down how attackers operate across 18 distinct phases. Studying UKC gave me a clearer picture of how real-world cyberattacks unfold and where defenders like me can step in to break the chain.
 
 ---
 
@@ -19,7 +19,7 @@ This is where attackers gain access to the environment.
 | [**Reconnaissance**](https://attack.mitre.org/tactics/TA0043/) | I learned this is the research phase, where attackers gather information like IPs, domains, and user data. |
 | [**Weaponization**](https://attack.mitre.org/tactics/TA0001/) | In this phase, malware or backdoors are created to exploit the target. |
 | **Delivery** | Payloads are sent through phishing emails, malicious links, or USBs. |
-| [**Social Engineering**](https://attack.mitre.org/tactics/TA0001/) | This involves tricking users — like impersonating IT staff to reset a password. |
+| [**Social Engineering**](https://attack.mitre.org/tactics/TA0001/) | This involves tricking users like impersonating IT staff to reset a password. |
 | [**Exploitation**](https://attack.mitre.org/tactics/TA0002/) | Vulnerabilities are exploited to gain execution or access. |
 | [**Persistence**](https://attack.mitre.org/tactics/TA0003/) | Attackers maintain access using scheduled tasks or registry changes. |
 | [**Defense Evasion**](https://attack.mitre.org/tactics/TA0005/) | Techniques like fileless malware or obfuscation are used to avoid detection. |
@@ -49,8 +49,8 @@ Here, attackers carry out their mission, whether theft, destruction, or disrupti
 | Phase | Description |
 |-------|-------------|
 | [**Collection**](https://attack.mitre.org/tactics/TA0009/) | Data like documents, screenshots, and credentials are gathered. |
-| [**Exfiltration**](https://attack.mitre.org/tactics/TA0010/) | The data is sent outside the network — often to encrypted cloud drives or remote servers. |
-| [**Impact**](https://attack.mitre.org/tactics/TA0040/) | Systems are damaged or disrupted — e.g., ransomware or wipers. |
+| [**Exfiltration**](https://attack.mitre.org/tactics/TA0010/) | The data is sent outside the network often to encrypted cloud drives or remote servers. |
+| [**Impact**](https://attack.mitre.org/tactics/TA0040/) | Systems are damaged or disrupted e.g., ransomware or wipers. |
 | **Objectives** | Final attacker goals like espionage, data theft, extortion, or system sabotage are achieved. |
 
 ---
@@ -67,7 +67,7 @@ As I compared the UKC to the **Cyber Kill Chain (CKC)** by Lockheed Martin, I re
 | **MITRE ATT&CK Integration** | ✅ Yes | ❌ No |
 | **APT Coverage** | ✅ Strong | ❌ Limited |
 
-> 🔍 **Why I prefer UKC**: It’s cloud-aware, aligned with the MITRE ATT&CK framework, and it covers everything from human error to technical exploitation — making it more realistic for today’s threats.
+> 🔍 **Why I prefer UKC**: It’s cloud-aware, aligned with the MITRE ATT&CK framework, and it covers everything from human error to technical exploitation  making it more realistic for today’s threats.
 
 ---
 
@@ -84,8 +84,3 @@ Learning about the Unified Kill Chain helped me think like both an **attacker** 
 This model will guide me in building more effective cybersecurity solutions and sharpen my thinking in ethical hacking, SOC analysis, and threat detection.
 
 ---
-
-📂 *Created by:* **Petras Guilherme Kulyumba**  
-📚 *Learning Track:* Ethical Hacking & Cyber Resilience  
-🧰 *Tools Referenced:* MITRE ATT&CK, TryHackMe, Mimikatz, Wireshark, Splunk  
-📅 *Date:* June 2025  
