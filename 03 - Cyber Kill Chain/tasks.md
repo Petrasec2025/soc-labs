@@ -69,7 +69,7 @@ I mapped each activity in the attack to the appropriate phase of the Cyber Kill 
 **Q:** Script used on web servers for persistent access?  
 **A:** Web shell  
 
-(<img width="1336" alt="Screenshot 2025-06-23 at 6 22 30 AM" src="https://github.com/user-attachments/assets/00ba44c8-6cc4-4c1b-80e8-3296494ea5ab" />)
+<img width="1336" alt="Screenshot 2025-06-23 at 6 22 30 AM" src="https://github.com/user-attachments/assets/00ba44c8-6cc4-4c1b-80e8-3296494ea5ab" />
 
 
 ---
