@@ -37,6 +37,8 @@ After reviewing all suspicious addresses, I confirmed that the following IP was 
 
 ### Step 1: Escalated the Event
 I escalated the incident to **Will Griffin**, the designated security analyst, providing all gathered information about the malicious IP.
+<img width="1439" alt="Screenshot 2025-06-23 at 4 13 53 AM" src="https://github.com/user-attachments/assets/4d90b17f-ac56-42aa-950c-c10d9bdd0aeb" />
+
 
 ### Step 2: Firewall Blocking
 Following the escalation, I created a firewall rule to block the IP address `221.181.185.159`, preventing further malicious activity.
