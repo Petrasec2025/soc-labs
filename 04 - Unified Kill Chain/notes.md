@@ -16,15 +16,15 @@ This stage shows how adversaries gain initial access to a target environment.
 
 | Phase              | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| **Reconnaissance** | Gathering public information like IPs, domains, and employee data (TA0043) |
-| **Weaponization**  | Creating malware, payloads, or C2 infrastructure (TA0001)                   |
+| **Reconnaissance** | Gathering public information like IPs, domains, and employee data (https://attack.mitre.org/tactics/TA0043/) |
+| **Weaponization**  | Creating malware, payloads, or C2 infrastructure (https://attack.mitre.org/tactics/TA0001/)                   |
 | **Delivery**       | Sending payloads via phishing emails, USBs, etc.                            |
-| **Social Engineering** | Tricking users into taking action (e.g., resetting a password)         |
-| **Exploitation**   | Exploiting known vulnerabilities (TA0002)                                   |
-| **Persistence**    | Maintaining access (e.g., scheduled tasks, backdoors) (TA0003)              |
-| **Defense Evasion**| Hiding activities from security tools (TA0005)                              |
-| **Command & Control (C2)** | Establishing remote control of systems (TA0011)                    |
-| **Pivoting**       | Moving deeper into the network (TA0008)                                     |
+| **Social Engineering** | Tricking users into taking action (e.g., resetting a password) (https://attack.mitre.org/tactics/TA0001/)        |
+| **Exploitation**   | Exploiting known vulnerabilities (https://attack.mitre.org/tactics/TA0002/)                                   |
+| **Persistence**    | Maintaining access (e.g., scheduled tasks, backdoors) (https://attack.mitre.org/tactics/TA0003/)              |
+| **Defense Evasion**| Hiding activities from security tools (https://attack.mitre.org/tactics/TA0005/)                              |
+| **Command & Control (C2)** | Establishing remote control of systems (https://attack.mitre.org/tactics/TA0011/)                    |
+| **Pivoting**       | Moving deeper into the network (https://attack.mitre.org/tactics/TA0008/)                                     |
 
 ---
 
@@ -34,11 +34,11 @@ This phase covers how attackers spread across a compromised environment.
 
 | Phase                | Description                                                              |
 |----------------------|--------------------------------------------------------------------------|
-| **Discovery**         | Scanning the internal network to locate assets (TA0007)                |
-| **Privilege Escalation** | Gaining elevated access to carry out further attacks (TA0004)      |
-| **Execution**         | Running malicious scripts or payloads (TA0002)                         |
-| **Credential Access** | Extracting stored credentials (e.g., using Mimikatz) (TA0006)          |
-| **Lateral Movement**  | Using credentials to spread across systems (TA0008)                    |
+| **Discovery**         | Scanning the internal network to locate assets (https://attack.mitre.org/tactics/TA0007/)                |
+| **Privilege Escalation** | Gaining elevated access to carry out further attacks (https://attack.mitre.org/tactics/TA0004/)      |
+| **Execution**         | Running malicious scripts or payloads (https://attack.mitre.org/tactics/TA0002/)                         |
+| **Credential Access** | Extracting stored credentials (e.g., using Mimikatz) (https://attack.mitre.org/tactics/TA0006/)          |
+| **Lateral Movement**  | Using credentials to spread across systems (https://attack.mitre.org/tactics/TA0008/)                    |
 
 ---
 
